@@ -6,3 +6,6 @@ project_id = "3a448bd0-708c-4ad5-81be-4e82866fa243"
 
 [[gptengineer-app.openapi]]
 url = "https://.com"
+
+[[gptengineer-app.openapi]]
+url = "asdahttps://.com\thttps://.com\t"
